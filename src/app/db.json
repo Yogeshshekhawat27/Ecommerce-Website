@@ -1,0 +1,42 @@
+{
+  "seller": [
+    {
+      "id": "5bc9",
+      "name": "yogesh",
+      "password": "yogu",
+      "email": "yogesh@gmail.com"
+    },
+    {
+      "id": "2436",
+      "name": "yogi",
+      "password": "123456",
+      "email": "yogi@gmail.com"
+    },
+    {
+      "id": "0836",
+      "name": "yogi",
+      "password": "",
+      "email": "yogi@gmail.com"
+    }
+  ],
+  "product": [
+    {
+      "id": "fa17",
+      "name": "iphone",
+      "price": "25000",
+      "color": "125",
+      "category": "15515",
+      "description": "iphonne jdsndjb dsj df ffjjsdjf\ndnnlksadnjdaslnflkdsufo;dsjfnlsdgiyfjsdkcsdcnsaduuvsdjvnjnsuvnjun jjnuujunddsjnfuhsdjncjnd",
+      "image": "https://www.apple.com/v/iphone-16/c/images/overview/media-card/highlights_apple_intelligence_startframe__b71iey9e0bn6_xlarge.jpg"
+    },
+    {
+      "id": "d9ad",
+      "name": "iphone",
+      "price": "25000",
+      "color": "125",
+      "category": "15515",
+      "description": "ipnnknk",
+      "image": "https://www.apple.com/v/iphone-16/c/images/overview/media-card/highlights_apple_intelligence_startframe__b71iey9e0bn6_xlarge.jpg"
+    }
+  ]
+}
