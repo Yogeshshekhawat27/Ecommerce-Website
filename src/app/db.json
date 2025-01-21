@@ -17,26 +17,68 @@
       "name": "yogi",
       "password": "",
       "email": "yogi@gmail.com"
+    },
+    {
+      "id": "4796",
+      "name": "yogi",
+      "password": "",
+      "email": "yogi@gmail.com"
     }
   ],
   "product": [
     {
-      "id": "fa17",
-      "name": "iphone",
+      "name": "iphone 14",
       "price": "25000",
-      "color": "125",
-      "category": "15515",
-      "description": "iphonne jdsndjb dsj df ffjjsdjf\ndnnlksadnjdaslnflkdsufo;dsjfnlsdgiyfjsdkcsdcnsaduuvsdjvnjnsuvnjun jjnuujunddsjnfuhsdjncjnd",
-      "image": "https://www.apple.com/v/iphone-16/c/images/overview/media-card/highlights_apple_intelligence_startframe__b71iey9e0bn6_xlarge.jpg"
+      "color": "1255",
+      "category": "phone",
+      "description": "iphone 14 180mpl",
+      "image": "https://www.apple.com/v/iphone-16/c/images/overview/media-card/highlights_apple_intelligence_startframe__b71iey9e0bn6_xlarge.jpg",
+      "id": "fa17"
     },
     {
-      "id": "d9ad",
-      "name": "iphone",
-      "price": "25000",
-      "color": "125",
-      "category": "15515",
-      "description": "ipnnknk",
-      "image": "https://www.apple.com/v/iphone-16/c/images/overview/media-card/highlights_apple_intelligence_startframe__b71iey9e0bn6_xlarge.jpg"
+      "id": "651e",
+      "name": "Samsung Galaxy S24",
+      "price": "50000",
+      "color": "Gold",
+      "category": "phone",
+      "description": "Samsung Galaxy S24 5G AI Smartphone (Amber Yellow, 8GB, 128GB Storage)\n",
+      "image": "https://m.media-amazon.com/images/I/71ez69tPl4L._SL1500_.jpg"
+    },
+    {
+      "id": "6875",
+      "name": "Samsung Galaxy S24",
+      "price": "100000",
+      "color": "Black",
+      "category": "phone",
+      "description": "Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Black, 12GB, 256GB Storage)_Without Offer",
+      "image": "https://m.media-amazon.com/images/I/41HLaX4vwiL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "20a5",
+      "name": "Redmi Note 13 5G",
+      "price": "30000",
+      "color": "white",
+      "category": "phone",
+      "description": "Redmi Note 13 5G (Arctic White, 6GB RAM, 128GB Storage) | 5G Ready | 120Hz Bezel-Less AMOLED | 7.mm Slimmest Note Ever | 108MP Pro-Grade Camera",
+      "image": "https://m.media-amazon.com/images/I/41ZlnmlOM-L._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "81e6",
+      "name": " Fun Toy Best",
+      "price": "500",
+      "color": "white",
+      "category": "Toy",
+      "description": "Mirana C-Type USB Rechargeable Hover Football Indoor Floating Hoverball Soccer | Air Football Neon Lite | Made in India Fun Toy Best Gift for Boys and Kids (Red)",
+      "image": "https://m.media-amazon.com/images/I/61IgEph39vL._SX522_.jpg"
+    },
+    {
+      "id": "8206",
+      "name": "Mechanix Monster",
+      "price": "700",
+      "color": "black",
+      "category": "Toy",
+      "description": "Mechanix Monster Buggies Enhancing Practical Education Stem Learning Mechanical Skills and Creativity for Boys and Girls Age 7+",
+      "image": "https://m.media-amazon.com/images/I/51wEJPjwh8L._SX300_SY300_QL70_FMwebp_.jpg"
     }
   ]
 }

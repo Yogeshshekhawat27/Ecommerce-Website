@@ -1,7 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 body{
     font-family: sans-serif;
-   background: linear-gradient(135deg, black, rgb(232, 231, 231));
+   /* background: linear-gradient(135deg, black, rgb(232, 231, 231)); */
 }
 .container{
     margin-left: 5%;
@@ -27,4 +27,13 @@ body{
     color: blueviolet;
     cursor:pointer ;
      
+}
+.message-p{
+    color: green;
+}
+.carousel-caption{
+    background-color: blanchedalmond;
+    border-radius: 5px;
+color: black;
+
 }
